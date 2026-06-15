@@ -1,0 +1,44 @@
+# Simulation files
+*.log
+*.jou
+*.wdb
+*.vcd
+*.wlf
+*.fsdb
+
+# Compilation outputs
+work/
+transcript
+
+# Vivado files
+.cache/
+.hw/
+.ip_user_files/
+.sim/
+.runs/
+.Xil/
+
+# Quartus files
+db/
+incremental_db/
+output_files/
+
+# ModelSim / QuestaSim
+vsim.wlf
+modelsim.ini
+
+# Temporary files
+*.tmp
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+
+# Python cache (for scripts)
+__pycache__/
+*.pyc
